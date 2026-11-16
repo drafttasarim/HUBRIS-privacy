@@ -18,4 +18,4 @@ Bu depo, özel drafttasarim/HUBRIS oyun/kayıt deposundan ayrıdır.
 
 ## Arama erişimi
 
-Alan adı kökündeki https://drafttasarim.github.io/robots.txt bu proje yolunu da kapsar. OAI-SearchBot erişimi, HTTP durumu ve noindex/X-Robots-Tag kontrolleri yayın raporunda doğrulanmalıdır. Proje altına yazılan bir robots.txt, alan adı kökündeki robots.txt yerine geçmez. GPTBot için ayrı bir izin değişikliği yapılmaz.
+Alan adı kökündeki https://drafttasarim.github.io/robots.txt bu proje yolunu da kapsar. 16 Kasım 2026 kontrolünde dört sayfa HTTP 200 döndürdü; OAI-SearchBot erişimi açık, meta noindex ve X-Robots-Tag engeli yok. GPTBot politikası değiştirilmedi. Ayrıntılar [yayın kontrol raporunda](Yayin-Kontrolu.md) bulunur. Bu kontrol, arama sonuçlarında görünme veya önerilme garantisi değildir.
